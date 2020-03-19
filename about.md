@@ -19,4 +19,4 @@ A complete list of my publications can be found [here](https://pubmed.ncbi.nlm.n
 
 ### Contact me
 
-[email@domain.com](mailto:cntalaveralopez@gmail.com)
+[email](mailto:cntalaveralopez@gmail.com)
