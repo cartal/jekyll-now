@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog Trial #1992!
+title: Blog Trial No 1992!
 ---
 
 After trying all the possible platforms for blogging, here I am finally on Github Pages.
