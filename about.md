@@ -32,7 +32,7 @@ _March 2012 - September 2016,  Stockholm, Sweden._
 
 I studied genomic variation in clinical and field isolates of [_Trypanosoma cruzi_]((https://www.biorxiv.org/content/10.1101/283531v2)) with Bjӧrn Andersson. I also worked in the development of analysis pipelines for single cell RNA-Seq of immune cells with statistical learning methods with Jonas Frisén. I also assembled and annotated the [_Pleurodeles waltl_](https://www.nature.com/articles/s41467-017-01964-9) genome, used as a model for regeneration with András Simon. Besides the computational work, I also gained experience with DNA and RNA NGS library preparation. 
 
-**Science for Life Laboratory (SciLifeLab)** / Bioinformatician
+**Science for Life Laboratory (SciLifeLab)** / Bioinformatician  
 _January 2011 -  March 2012,  Stockholm, Sweden._
 
 I worked as a bioinformatician for the [Spruce Genome Consortium](https://www.nature.com/articles/nature12211) testing and developing assembly methods for large genomes and comparative genomics of conifers.  During this period I gained experience on programming languages and high-throughput computational tools.
