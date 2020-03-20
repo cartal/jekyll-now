@@ -6,7 +6,8 @@ permalink: /about/
  
 I'm a Nicaraguan computational biologist in Sarah Teichmann's [group](http://www.teichlab.org/) at the 
 Wellcome Sanger Institute. I'm very interested in the studying the inflammatory response and tissue repair 
-applying methods from the artificial intelligence field to multiomics datasets. 
+applying methods from the artificial intelligence field to multiomics datasets.  
+ 
 
 ---
 
