@@ -10,7 +10,7 @@ applying methods from the artificial intelligence field to multiomics datasets.
 
 ---
 
-### The scientific journey
+## The scientific journey
 
 **EMBL-EBI and Wellcome Sanger Institute** / Postdoctoral fellow  
 _September  2018 - Present,  Cambridge, UK._
