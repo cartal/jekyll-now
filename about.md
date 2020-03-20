@@ -36,8 +36,6 @@ _January 2011 -  March 2012,  Stockholm, Sweden._
 I worked as a bioinformatician for the Spruce Genome Consortium testing and developing assembly methods for large genomes and comparative genomics of conifers.  During this period I gained experience on programming languages and high-throughput computational tools.
 
 
-
-
 I did my Ph.D at Karolinska Institutet in Stockholm under Prof. Björn Andersson supervision (2012 - 2016), 
 studying the genome evolution of [_Trypanosoma cruzi_](https://www.biorxiv.org/content/10.1101/283531v2), 
 the assembly of two of the largest genomes: [_Picea abies_](https://www.nature.com/articles/nature12211) 
