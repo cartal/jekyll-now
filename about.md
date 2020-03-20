@@ -4,25 +4,26 @@ title: About
 permalink: /about/
 ---
 
+<span style="font-size:4em;">
 I'm a Nicaraguan computational biologist in Sarah Teichmann's [group](http://www.teichlab.org/) at the 
 Wellcome Sanger Institute. I'm very interested in applying methods from the artificial intelligence field 
 to multiomics datasets. 
-
+</span>
 ---
 
 ### The scientific journey
 
-**EMBL-EBI and Wellcome Sanger Institute** / Postdoctoral fellow
-_September  2018 - PRESENT,  Cambridge, UK._
+**EMBL-EBI and Wellcome Sanger Institute** / Postdoctoral fellow  
+_September  2018 - Present,  Cambridge, UK._
 
-At Sarah Teichmann’s lab working with large scale, multi-omics single cell datasets and artificial intelligence methods. My research interests include the transcriptional regulation of the adult human heart, myeloid immune cells and their interaction during heart injury repair.  At the same time, I’m working in the deployment of state-of-the-art single cell analysis tools for the Human Cell Atlas web portal at EMBL-EBI.  
+Working in Sarah Teichmann’s lab with large scale, multi-omics single cell datasets and artificial intelligence methods, and being [opinionated](https://www.cell.com/trends/immunology/fulltext/S1471-4906(19)30192-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1471490619301929%3Fshowall%3Dtrue) about it. My research interests include the transcriptional regulation of the adult human heart, myeloid immune cells and their interaction during heart injury repair.  I also collaborated in the deployment of _state-of-the-art_ single cell analysis tools for the Human Cell Atlas [web portal](https://academic.oup.com/nar/article/48/D1/D77/5609521) at EMBL-EBI.  
 
-**The Francis Crick Institute** / Postdoctoral fellow
+**The Francis Crick Institute** / Postdoctoral fellow  
 _September  2016 - September 2018,  London, UK._
 
 I worked in the Malaria immunology laboratory using machine learning methods applied to RNA-Seq and proteomic data, as well as publicly available datasets, to study the immunological processes involved during malaria infection in a mouse model with [_Plasmodium chabaudi_](https://www.nature.com/articles/s41598-019-52388-y). 
 
-**London School of Hygiene and Tropical Medicine** / Visiting researcher
+**London School of Hygiene and Tropical Medicine** / Visiting researcher  
 _June 2015 - September 2016,  London, UK._
 
 I worked with Michael Miles at the LSHTM on genome analysis of _Leishmania Spp._ and _Trypanosoma cruzi_ hybrids. I also worked in the development of diagnostic tools for _Strongyloides spp._ using proteomic and genomic public datasets.  
