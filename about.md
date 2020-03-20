@@ -4,7 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I'm a Nicaraguan computational biologist in Sarah Teichmann's [group](http://www.teichlab.org/) at the Wellcome Sanger Institute working on cardiology, immunology and tissue repair. I'm very interested applying methods from the artificial intelligence field for the analysis of multiomics datasets, in order to ultimate better understand how transcriptional networks shape the evolvability of a cell and tissue. 
+<div style="text-align: justify">
+I'm a Nicaraguan computational biologist in Sarah Teichmann's [group](http://www.teichlab.org/) at the 
+Wellcome Sanger Institute working on cardiology, immunology and inflammation. I'm very interested in 
+applying methods from the artificial intelligence field to the analysis of multiomics datasets, 
+in order to ultimate better understand how transcriptional networks shape the evolvability 
+of a cell and tissue. 
+</div>
 
 ### More Information
 
