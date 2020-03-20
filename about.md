@@ -9,6 +9,7 @@ I'm a Nicaraguan computational biologist in Sarah Teichmann's [group](http://www
 Wellcome Sanger Institute. I'm very interested in applying methods from the artificial intelligence field 
 to multiomics datasets. 
 </span>
+
 ---
 
 ### The scientific journey
