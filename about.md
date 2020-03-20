@@ -5,11 +5,10 @@ permalink: /about/
 ---
 
 I'm a Nicaraguan computational biologist in Sarah Teichmann's [group](http://www.teichlab.org/) at the 
-Wellcome Sanger Institute working on cardiology, immunology and inflammation. I'm very interested in 
-applying methods from the artificial intelligence field to the analysis of multiomics datasets, to 
-better understand how transcriptional networks shape the evolvability of a cell and tissue. 
+Wellcome Sanger Institute. I'm very interested in applying methods from the artificial intelligence field 
+to multiomics datasets. 
 
-### More Information
+### The scientific journey
 
 I did my Ph.D at Karolinska Institutet in Stockholm under Prof. Björn Andersson supervision (2012 - 2016), 
 studying the genome evolution of [_Trypanosoma cruzi_](https://www.biorxiv.org/content/10.1101/283531v2), 
