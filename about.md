@@ -27,7 +27,7 @@ _June 2015 - September 2016,  London, UK._
 
 I worked with Michael Miles at the LSHTM on genome analysis of _Leishmania Spp._ and _Trypanosoma cruzi_ hybrids. I also worked in the development of diagnostic tools for _Strongyloides spp._ using proteomic and genomic public datasets.  
 
-**Cell and Molecular Biology, Karolinska Institutet** / Ph.D student
+**Cell and Molecular Biology, Karolinska Institutet** / Ph.D student  
 _March 2012 - September 2016,  Stockholm, Sweden._
 
 I studied genomic variation in clinical and field isolates of [_Trypanosoma cruzi_]((https://www.biorxiv.org/content/10.1101/283531v2)) with Bjӧrn Andersson. I also worked in the development of analysis pipelines for single cell RNA-Seq of immune cells with statistical learning methods with Jonas Frisén. I also assembled and annotated the [_Pleurodeles waltl_](https://www.nature.com/articles/s41467-017-01964-9) genome, used as a model for regeneration with András Simon. Besides the computational work, I also gained experience with DNA and RNA NGS library preparation. 
