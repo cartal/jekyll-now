@@ -3,11 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 <font size="1"> 
 I'm a Nicaraguan computational biologist in Sarah Teichmann's [group](http://www.teichlab.org/) at the 
 Wellcome Sanger Institute. I'm very interested in applying methods from the artificial intelligence field 
 to multiomics datasets. 
 </font>
+
 ---
 
 ### The scientific journey
