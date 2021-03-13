@@ -16,6 +16,7 @@ When I'm not working, you can find me reading, playing with my synthesisers or w
 ## The scientific journey
 
 **Institute of Computational Biology - Helmholtz Zentrum München** / Team leader
+
 _June 2021 - Onwards, Munich Germany_
 
 In June 2021 I will start working as a team leader at ICB focusing the study of infectious diseases using spatially-resolved single cell technologies and machine learning. 
