@@ -6,7 +6,9 @@ permalink: /about/
  
 I'm a Nicaraguan computational biologist in Sarah Teichmann's [group](http://www.teichlab.org/) at the 
 Wellcome Sanger Institute. I'm very interested in the studying the inflammatory response and tissue repair 
-applying methods from the artificial intelligence field to multiomics datasets.  
+applying methods from the artificial intelligence field to multiomics datasets.
+
+When I'm not working, you can find me reading, playing with my synthesisers or watching my girlfriend slaying monsters while she plays The Witcher 3: Wild Hunt. 
  
 
 ---
@@ -14,9 +16,11 @@ applying methods from the artificial intelligence field to multiomics datasets.
 ## The scientific journey
 
 **EMBL-EBI and Wellcome Sanger Institute** / Postdoctoral fellow  
-_September  2018 - Present,  Cambridge, UK._
+_September  2018 - June 2021,  Cambridge, UK._
 
-Working in Sarah Teichmann’s lab with large scale, multi-omics single cell datasets and artificial intelligence methods, and being [opinionated](https://www.cell.com/trends/immunology/fulltext/S1471-4906(19)30192-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1471490619301929%3Fshowall%3Dtrue) about it. My research interests include the transcriptional regulation of the adult human heart, myeloid immune cells and their interaction during heart injury repair.  I also collaborated in the deployment of _state-of-the-art_ single cell analysis tools for the Human Cell Atlas [web portal](https://academic.oup.com/nar/article/48/D1/D77/5609521) at EMBL-EBI.  
+Working in Sarah Teichmann’s lab with large scale, multi-omics single cell datasets and artificial intelligence methods, and being [opinionated](https://www.cell.com/trends/immunology/fulltext/S1471-4906(19)30192-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1471490619301929%3Fshowall%3Dtrue) about it. My research interests include the transcriptional regulation of the adult human heart, myeloid immune cells and their interaction during heart injury repair.  I also collaborated in the deployment of _state-of-the-art_ single cell analysis tools for the Human Cell Atlas [web portal](https://academic.oup.com/nar/article/48/D1/D77/5609521) at EMBL-EBI.
+
+On September 2020 we published the single cell atlas of the human heart in [Nature](https://www.nature.com/articles/s41586-020-2797-4).   
 
 **The Francis Crick Institute** / Postdoctoral fellow  
 _September  2016 - September 2018,  London, UK._
