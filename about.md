@@ -15,20 +15,25 @@ When I'm not working, you can find me reading, playing with my synthesisers or w
 
 ## The scientific journey
 
+**Institute of Computational Biology - Helmholtz Zentrum München** / Team leader
+_June 2021 - Onwards, Munich Germany_
+
+In June 2021 I will start working as a team leader at ICB focusing the study of infectious diseases using spatially-resolved single cell technologies and machine learning. 
+
 **EMBL-EBI and Wellcome Sanger Institute** / Postdoctoral fellow  
-_September  2018 - June 2021,  Cambridge, UK._
+_September  2018 - June 2021,  Cambridge, United Kingdom._
 
 Working in Sarah Teichmann’s lab with large scale, multi-omics single cell datasets and artificial intelligence methods, and being [opinionated](https://www.cell.com/trends/immunology/fulltext/S1471-4906(19)30192-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1471490619301929%3Fshowall%3Dtrue) about it. My research interests include the transcriptional regulation of the adult human heart, myeloid immune cells and their interaction during heart injury repair.  I also collaborated in the deployment of _state-of-the-art_ single cell analysis tools for the Human Cell Atlas [web portal](https://academic.oup.com/nar/article/48/D1/D77/5609521) at EMBL-EBI.
 
 On September 2020 we published the single cell atlas of the human heart in [Nature](https://www.nature.com/articles/s41586-020-2797-4).   
 
 **The Francis Crick Institute** / Postdoctoral fellow  
-_September  2016 - September 2018,  London, UK._
+_September  2016 - September 2018,  London, United Kingdom._
 
 I worked in the Malaria immunology laboratory using machine learning methods applied to RNA-Seq and proteomic data, as well as publicly available datasets, to study the immunological processes involved during malaria infection in a mouse model with [_Plasmodium chabaudi_](https://www.nature.com/articles/s41598-019-52388-y). 
 
 **London School of Hygiene and Tropical Medicine** / Visiting researcher  
-_June 2015 - September 2016,  London, UK._
+_June 2015 - September 2016,  London, United Kingdom._
 
 I worked with Michael Miles at the LSHTM on genome analysis of _Leishmania Spp._ and _Trypanosoma cruzi_ hybrids. I also worked in the development of diagnostic tools for _Strongyloides spp._ using proteomic and genomic public datasets.  
 
